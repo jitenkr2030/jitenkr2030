@@ -28,6 +28,7 @@ Open Source Contributor - Contributed enhancements to several open source projec
 📫 Get in Touch
 instagram: jitendekr.cloud
 Portfolio: jitenderkr.cloud
+
 💡 Fun Fact
 I love exploring new technologies and experimenting with Raspberry Pi projects in my spare time!
 

@@ -26,7 +26,6 @@ Open Source Contributor - Contributed enhancements to several open source projec
 
 
 📫 Get in Touch
-instagram: jitendekr.cloud
 Portfolio: jitenderkr.cloud
 
 💡 Fun Fact

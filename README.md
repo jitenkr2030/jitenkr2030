@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Jitender Kumar
 Side Hustle Developer | Passionate about Building Useful Tools & Applications
-I'm an Accountant by profession and a passionate side hustle developer. My journey in software development started with a curiosity to solve everyday problems through code. Over the years, I've honed my skills by working on various side projects and contributing to open source.
+I'm an Accountant by profession and a passionate side hustle developer. My journey in software development started with a curiosity to solve everyday problems through code. Over the years, I've honed my skills by working on various side projects and contributing to open source. 
 
 🔧 Skills
 Languages: JavaScript/TypeScript, Python, Java

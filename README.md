@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋 I'm Jitender Kumar
+Side Hustle Developer | Passionate about Building Useful Tools & Applications
+I'm an Accountant by profession and a passionate side hustle developer. My journey in software development started with a curiosity to solve everyday problems through code. Over the years, I've honed my skills by working on various side projects and contributing to open source.
 
-<!--
-**jitenkr2030/jitenkr2030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Skills
+Languages: JavaScript/TypeScript, Python, Java
+Frameworks & Tools: React.js, Node.js, Express.js, Flask, Docker
+Databases: MongoDB, PostgreSQL, MySQL
+Version Control: Git, GitHub
 
-Here are some ideas to get you started:
+🌱 Current Projects
+RelaxGST.ai - Welcome to the RelaxGST.AI repository! This repository hosts files and resources related to our AI-driven relaxation tool. RelaxGST.ai is a comprehensive application for GST management, including invoice generation, eWay bill management, GST return filing, and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Agricomm.ai - Agricomm.ai is a next-generation AI-powered agriculture e-commerce platform designed to connect farmers and consumers, catering to the agricultural community across India, Nepal, and beyond. The platform aims to streamline the agricultural supply chain, empower farmers with AI-driven insights and tools, and provide consumers with access to fresh, locally sourced produce.
+
+AI-Powered Web Hosting Control Panel -This project is an AI-powered web hosting control panel designed to simplify the user experience for managing websites and server configurations. It includes features like automated backups, security monitoring, resource allocation optimization, and predictive maintenance alerts
+
+📫 Get in Touch
+Instagram: Jitendekr.cloud
+Twitter: @jitender_cloud
+Portfolio: https://jitenderkr.cloud
+💡 Fun Fact
+I love exploring new technologies and experimenting with Raspberry Pi projects in my spare time!

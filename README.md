@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate software developer with expertise in full-stack development, specializing in creating efficient, scalable, and user-friendly web and mobile applications. With a strong background in JavaScript, React, Node.js, and React Native, I love solving complex problems and delivering high-quality solutions.
+I'm a passionate salf tought software developer with expertise in full-stack development, specializing in creating efficient, scalable, and user-friendly web and mobile applications. With a strong background in JavaScript, React, Node.js, and React Native, I love solving complex problems and delivering high-quality solutions.
 
 ## 🔭 Projects
 

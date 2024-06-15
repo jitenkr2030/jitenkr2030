@@ -22,9 +22,13 @@ I'm a passionate software developer with expertise in full-stack development, sp
 
 **Agricomm.ai** is a next-generation AI-powered agriculture e-commerce platform designed to connect farmers and consumers, catering to the agricultural community across India, Nepal, and beyond. The platform aims to streamline the agricultural supply chain, empower farmers with AI-driven insights and tools, and provide consumers with access to fresh, locally sourced produce.
 
+[Explore the Agricomm.ai repository](https://github.com/jitenkr2030/agricomm.ai)
+
 ### AI-Powered Web Hosting Control Panel
 
 This project is an AI-powered web hosting control panel designed to simplify the user experience for managing websites and server configurations. It includes features like automated backups, security monitoring, resource allocation optimization, and predictive maintenance alerts.
+
+[Explore the AI-Powered Web Hosting Control Panel repository](https://github.com/jitenkr2030/ai_hosting_control_panel)
 
 ## 🛠️ Skills
 

@@ -16,7 +16,7 @@ I'm a passionate software developer with expertise in full-stack development, sp
 - GST Return Filing
 - Bookkeeping Services
 
-[Explore the RelaxGST.ai repository](https://github.com/jitender-kumar/RelaxGST.ai)
+[Explore the RelaxGST.ai repository](https://github.com/jitenkr2030/RelaxGST.ai)
 
 ### Agricomm.ai
 

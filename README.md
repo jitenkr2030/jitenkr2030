@@ -1,33 +1,52 @@
-Jitender Kumar
+# Hi there, I'm Jitender Kumar 👋
 
-Side Hustle Developer | Passionate about Building Useful Tools & Applications
-👋 Hello, I'm Jitender! I'm a software engineer by profession and a passionate side hustle developer. My journey in software development started with a curiosity to solve everyday problems through code. Over the years, I've honed my skills by working on various side projects and contributing to open source. 
-  
-🔧 Skills
-Languages: JavaScript/TypeScript, Python, Java
-Frameworks & Tools: React.js, Node.js, Express.js, Flask, Docker
-Databases: MongoDB, PostgreSQL, MySQL
-Version Control: Git, GitHub
+## 🚀 About Me
 
+I'm a passionate software developer with expertise in full-stack development, specializing in creating efficient, scalable, and user-friendly web and mobile applications. With a strong background in JavaScript, React, Node.js, and React Native, I love solving complex problems and delivering high-quality solutions.
 
-🌱 Current Projects
-RelaxGST.ai - Welcome to the RelaxGST.AI repository! This repository hosts files and resources related to our AI-driven relaxation tool. RelaxGST.ai is a comprehensive application for GST management, including invoice generation, eWay bill management, GST return filing, and more.
+## 🔭 Projects
 
-Agricomm.ai - Agricomm.ai is a next-generation AI-powered agriculture e-commerce platform designed to connect farmers and consumers, catering to the agricultural community across India, Nepal, and beyond. The platform aims to streamline the agricultural supply chain, empower farmers with AI-driven insights and tools, and provide consumers with access to fresh, locally sourced produce.
+### RelaxGST.ai
 
-AI-Powered Web Hosting Control Panel - This project is an AI-powered web hosting control panel designed to simplify the user experience for managing websites and server configurations. It includes features like automated backups, security monitoring, resource allocation optimization, and predictive maintenance alerts.
+**RelaxGST.ai** is a comprehensive platform designed to simplify GST management for businesses in India. The project includes a web application, a mobile application, and a robust backend service, providing features such as:
 
+- User Authentication & Management
+- Invoice Management with OCR
+- eWay Bill Management
+- GST Return Filing
+- Bookkeeping Services
 
+[Explore the RelaxGST.ai repository](https://github.com/jitender-kumar/RelaxGST.ai)
 
-🚀 Recent Achievements
-TechCon 2023 Hackathon Finalist - Developed an innovative AI-powered chatbot for customer service automation.
-Open Source Contributor - Contributed enhancements to several open source projects, including improving documentation and fixing bugs.
+### Other Projects
 
+- **Project X:** A description of Project X and its key features.
+- **Project Y:** A description of Project Y and its key features.
 
+## 🛠️ Skills
 
-📫 Get in Touch
-Portfolio: jitenderkr.cloud
+- **Languages:** JavaScript, TypeScript, HTML, CSS
+- **Frontend:** React, React Native, Redux
+- **Backend:** Node.js, Express, MongoDB
+- **DevOps:** Docker, Kubernetes, CI/CD
+- **Tools:** Git, Webpack, Babel, ESLint
 
-💡 Fun Fact
-I love exploring new technologies and experimenting with Raspberry Pi projects in my spare time!
+## 📫 How to Reach Me
 
+- **Email:** [jitender@example.com](mailto:jitender@example.com)
+- **LinkedIn:** [linkedin.com/in/jitenderkumar](https://www.linkedin.com/in/jitenderkumar)
+- **Twitter:** [@jitender_dev](https://twitter.com/jitender_dev)
+
+## 🌱 Currently Learning
+
+- Advanced GraphQL
+- Machine Learning with Python
+
+## 🤝 Open to Collaborate
+
+I'm always open to collaborating on interesting projects and ideas. Feel free to reach out if you'd like to work together!
+
+## 📈 GitHub Stats
+
+![Jitender Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jitender-kumar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jitender-kumar&layout=compact&theme=radical)

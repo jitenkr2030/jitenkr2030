@@ -18,10 +18,13 @@ I'm a passionate software developer with expertise in full-stack development, sp
 
 [Explore the RelaxGST.ai repository](https://github.com/jitender-kumar/RelaxGST.ai)
 
-### Other Projects
+### Agricomm.ai
 
-- **Project X:** A description of Project X and its key features.
-- **Project Y:** A description of Project Y and its key features.
+**Agricomm.ai** is a next-generation AI-powered agriculture e-commerce platform designed to connect farmers and consumers, catering to the agricultural community across India, Nepal, and beyond. The platform aims to streamline the agricultural supply chain, empower farmers with AI-driven insights and tools, and provide consumers with access to fresh, locally sourced produce.
+
+### AI-Powered Web Hosting Control Panel
+
+This project is an AI-powered web hosting control panel designed to simplify the user experience for managing websites and server configurations. It includes features like automated backups, security monitoring, resource allocation optimization, and predictive maintenance alerts.
 
 ## 🛠️ Skills
 
@@ -33,10 +36,9 @@ I'm a passionate software developer with expertise in full-stack development, sp
 
 ## 📫 How to Reach Me
 
-- **Email:** [jitender@example.com](mailto:jitender@example.com)
-- **LinkedIn:** [linkedin.com/in/jitenderkumar](https://www.linkedin.com/in/jitenderkumar)
-- **Twitter:** [@jitender_dev](https://twitter.com/jitender_dev)
-
+- **Email:** support@jitenderkr.cloud
+- **Instagram:** jitenderkr.cloud
+  
 ## 🌱 Currently Learning
 
 - Advanced GraphQL

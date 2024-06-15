@@ -33,8 +33,8 @@ This project is an AI-powered web hosting control panel designed to simplify the
 ## 🛠️ Skills
 
 - **Languages:** JavaScript, TypeScript, HTML, CSS
-- **Frontend:** React, React Native, Redux
-- **Backend:** Node.js, Express, MongoDB
+- **Frontend:** React, React Native, Redux ,Python
+- **Backend:** Node.js, Express, MongoDB , PHP, Python
 - **DevOps:** Docker, Kubernetes, CI/CD
 - **Tools:** Git, Webpack, Babel, ESLint
 
@@ -42,6 +42,7 @@ This project is an AI-powered web hosting control panel designed to simplify the
 
 - **Email:** support@jitenderkr.cloud
 - **Instagram:** jitenderkr.cloud
+- **Website:** https://jitenderkr.cloud/contact-us
   
 ## 🌱 Currently Learning
 

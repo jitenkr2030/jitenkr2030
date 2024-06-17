@@ -24,11 +24,11 @@ I'm a passionate salf tought software developer with expertise in full-stack dev
 
 [Explore the Agricomm.ai repository](https://github.com/jitenkr2030/agricomm.ai)
 
-### AI-Powered Web Hosting Control Panel
+### NextGenPanel.com
 
-This project is an AI-powered web hosting control panel designed to simplify the user experience for managing websites and server configurations. It includes features like automated backups, security monitoring, resource allocation optimization, and predictive maintenance alerts.
+NextGenPanel.com is a comprehensive web hosting control panel designed for web hosting companies, developers, and system administrators. It offers both open-source and SaaS deployment options, providing a powerful and user-friendly interface for managing web hosting infrastructure.
 
-[Explore the AI-Powered Web Hosting Control Panel repository](https://github.com/jitenkr2030/ai_hosting_control_panel)
+[Explore the AI-Powered Web Hosting Control Panel NextGenPanel.com repository](https://github.com/jitenkr2030/NextGenPanel.com.git)
 
 ## 🛠️ Skills
 

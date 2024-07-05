@@ -8,7 +8,7 @@ I'm a passionate salf tought software developer with expertise in full-stack dev
 
 ### DeptPayoff: Automate Your Way Out of Debt
 
-**DeptPayoff: Automate Your Way Out of Debt** DeptPayoff is an intelligent application designed to help users become debt-free faster by providing automated tools, personalized strategies, and AI-powered insights for debt repayment.
+**DeptPayoff: Automate Your Way Out of Debt** is an intelligent application designed to help users become debt-free faster by providing automated tools, personalized strategies, and AI-powered insights for debt repayment.
 
 Features
 Secure account connection
@@ -22,7 +22,7 @@ Goal setting and tracking
 Community and support
 Admin management panel
 
-[Explore the RelaxGST.ai repository](https://github.com/jitenkr2030/debtpayoff.git)
+[Explore the DebtPayOff repository](https://github.com/jitenkr2030/debtpayoff.git)
 
 ### Agricomm.ai
 

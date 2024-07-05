@@ -6,17 +6,23 @@ I'm a passionate salf tought software developer with expertise in full-stack dev
 
 ## 🔭 Projects
 
-### RelaxGST.ai
+### DeptPayoff: Automate Your Way Out of Debt
 
-**RelaxGST.ai** is a comprehensive platform designed to simplify GST management for businesses in India. The project includes a web application, a mobile application, and a robust backend service, providing features such as:
+**DeptPayoff: Automate Your Way Out of Debt** DeptPayoff is an intelligent application designed to help users become debt-free faster by providing automated tools, personalized strategies, and AI-powered insights for debt repayment.
 
-- User Authentication & Management
-- Invoice Management with OCR
-- eWay Bill Management
-- GST Return Filing
-- Bookkeeping Services
+Features
+Secure account connection
+Debt input panel
+AI-powered debt payoff strategies
+Automated debt payments
+AI chatbot coach
+Personalized tips and recommendations
+Financial optimization and automation
+Goal setting and tracking
+Community and support
+Admin management panel
 
-[Explore the RelaxGST.ai repository](https://github.com/jitenkr2030/RelaxGST.ai)
+[Explore the RelaxGST.ai repository](https://github.com/jitenkr2030/debtpayoff.git)
 
 ### Agricomm.ai
 

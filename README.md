@@ -8,7 +8,7 @@ I'm a passionate salf tought software developer with expertise in full-stack dev
 
 ### DeptPayoff: Automate Your Way Out of Debt
 
-**DeptPayoff: Automate Your Way Out of Debt** is an intelligent application designed to help users become debt-free faster by providing automated tools, personalized strategies, and AI-powered insights for debt repayment.
+**DeptPayoff** is an intelligent application designed to help users become debt-free faster by providing automated tools, personalized strategies, and AI-powered insights for debt repayment.
 
 Features
 Secure account connection

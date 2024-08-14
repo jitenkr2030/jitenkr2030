@@ -28,17 +28,17 @@ Live DebtPayOff Application
 
 [Live DebtPayOff Application](http://138.201.94.245:3000/#home)
 
-### Agricomm.ai
+### MirazSec
 
-**Agricomm.ai** is a next-generation AI-powered agriculture e-commerce platform designed to connect farmers and consumers, catering to the agricultural community across India, Nepal, and beyond. The platform aims to streamline the agricultural supply chain, empower farmers with AI-driven insights and tools, and provide consumers with access to fresh, locally sourced produce.
+**MirazSec**  is an innovative hybrid guard and client security application designed to transform the way security operations are managed and executed. By leveraging advanced AI-driven features and user-centric design, MirazSec aims to enhance the efficiency, effectiveness, and safety of security operations for guard companies, their clients, and field officers.
 
-[Explore the Agricomm.ai repository](https://github.com/jitenkr2030/agricomm.ai)
-
+[Explore the Agricomm.ai repository](https://github.com/jitenkr2030/MirazSec.git)
+com
 ### NextGenPanel.net
 
 NextGenPanel.net is a comprehensive web hosting control panel designed for web hosting companies, developers, and system administrators. It offers both open-source and SaaS deployment options, providing a powerful and user-friendly interface for managing web hosting infrastructure.
 
-[Explore the AI-Powered Web Hosting Control Panel NextGenPanel.com repository](https://github.com/jitenkr2030/NextGenPanel.com.git)
+[Explore the AI-Powered Web Hosting Control Panel NextGenPanel.com repository](https://github.com/jitenkr2030/NextGenPanel.git)
 
 ## 🛠️ Skills
 

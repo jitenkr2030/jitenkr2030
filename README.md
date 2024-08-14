@@ -60,7 +60,3 @@ NextGenPanel.net is a comprehensive web hosting control panel designed for web h
 
 I'm always open to collaborating on interesting projects and ideas. Feel free to reach out if you'd like to work together!
 
-## 📈 GitHub Stats
-
-![Jitender Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jitender-kumar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jitender-kumar&layout=compact&theme=radical)

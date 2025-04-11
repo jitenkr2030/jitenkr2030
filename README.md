@@ -1,75 +1,71 @@
 
-## 👋 Hi there, I'm Jitender Kumar
-I'm a passionate self-taught software developer with expertise in full-stack development, specializing in creating efficient, scalable, and user-friendly web and mobile applications. With a strong background in JavaScript, React, Node.js, and React Native, I love solving complex problems and delivering high-quality solutions
+# 👋 Hi, I’m Jitender Kumar ([@jitenkr2030](https://github.com/jitenkr2030))
+
+🚀 Self-taught full-stack software developer | 💡 Startup founder | 🌱 AI & Blockchain enthusiast | 🇮🇳 Building the future from Jharkhand
 
 ---
 
-## 🚀 Projects
+## 🧠 About Me
 
-### 1. [Sans-language](https://github.com/jitenkr2030/Sans-language
-An open-source project licensed under the Apache License 2..
+Hi! I'm Jitender — a passionate software engineer, tech entrepreneur, and problem-solver driven by the mission to empower people through technology. I love building platforms that improve everyday life, create economic opportunity, and shape the digital future of India and beyond.
 
-### 2. [mirazmobile](https://github.com/jitenkr2030/mirazmobile
-An AI-driven, user-centric security app designed for security guard companies, their clients, and field officer.
-
-### 3. [GSTPAssociation.org](https://github.com/jitenkr2030/GSTPAssociation.org
-A comprehensive platform designed to support GST practitioners in Indi.
-
-### 4. [StartStartup.Business](https://github.com/jitenkr2030/StartStartup.Business
-Frontend for the StartStartup.Business platform, a React-based web application designed to help startups manage their projects, tasks, and mor.
-
-### 5. [airframe-react](https://github.com/jitenkr2030/airframe-react
-Forked from 0wczar/airframe-reac.
-
-### 6. [GFBooking](https://github.com/jitenkr2030/GFBooking
-A project focused on booking functionalitie.
-
-### 7. [HourlyGFApp](https://github.com/jitenkr2030/HourlyGFApp
-An application designed for hourly-based functionalitie.
-
-### 8. [DeptPayoff](https://github.com/jitenkr2030/DeptPayoff
-An intelligent application designed to help users become debt-free faster by providing automated tools, personalized strategies, and AI-powered insights for debt repaymen.
-
-### 9. [MirazSec](https://github.com/jitenkr2030/MirazSec
-An innovative hybrid guard and client security application designed to transform the way security operations are managed and execute.
-
-### 10. [NextGenPanel.net](https://github.com/jitenkr2030/NextGenPanel.net
-A comprehensive web hosting control panel designed for web hosting companies, developers, and system administrator.
-
-### 11. [RoundUPI](https://github.com/jitenkr2030/RoundUPI
-An application that transforms everyday UPI transactions into automatic savings and smart investment.
-
-### 12. [OpenBlockFin](https://github.com/jitenkr2030/OpenBlockFin
-An open-source blockchain-based financial platform focused on secure, transparent, and decentralized financial transaction.
+I work across frontend and backend, combining JavaScript, React, Node.js, Python, and emerging tech like AI and blockchain to turn ideas into scalable solutions.
 
 ---
 
-## 🛠️ Skills
+## 🔥 Featured Projects
 
-- **Languages*: JavaScript, TypeScript, HTML, CSS, Python, HP
-- **Frontend*: React, React Native, Reux
-- **Backend*: Node.js, Express, MongDB
-- **DevOps*: Docker, Kubernetes, CICD
-- **Tools*: Git, Webpack, Babel, ESLnt
+Here are some of the products I'm building and contributing to:
+
+| Project | Description |
+|--------|-------------|
+| 🔐 [mirazmobile](https://github.com/jitenkr2030/mirazmobile) | AI-powered security app for security agencies, clients, and field officers. |
+| 💼 [GSTPAssociation.org](https://github.com/jitenkr2030/GSTPAssociation.org) | Digital platform empowering GST practitioners across India. |
+| 🚀 [StartStartup.Business](https://github.com/jitenkr2030/StartStartup.Business) | Full-stack solution to support aspiring startup founders and teams. |
+| 💸 [DeptPayoff](https://github.com/jitenkr2030/DeptPayoff) | Smart app helping users pay off debt faster with AI-powered insights. |
+| 🧾 [NextGenPanel.net](https://github.com/jitenkr2030/NextGenPanel.net) | Hosting control panel for developers with one-click PHP/Node/Python deployment. |
+| 🔄 [RoundUPI](https://github.com/jitenkr2030/RoundUPI) | Round-up UPI payments and invest the spare change automatically. |
+| 🛡 [MirazSec](https://github.com/jitenkr2030/MirazSec) | Guard-client hybrid security system for real-time operations. |
+| 🌐 [OpenBlockFin](https://github.com/jitenkr2030/OpenBlockFin) | Blockchain-based open-source finance platform. |
+| 🧠 [Sans-language](https://github.com/jitenkr2030/Sans-language) | Experimental programming language initiative. |
+
+👉 Explore all repos: [github.com/jitenkr2030?tab=repositories](https://github.com/jitenkr2030?tab=repositories)
 
 ---
 
-## 📚 Currently Learning
-- Advanced GrahQL
-- Machine Learning with Pyhon
+## 🛠️ Tech Stack
+
+**Languages:** JavaScript, Python, PHP, TypeScript, HTML/CSS  
+**Frontend:** React, React Native, Redux, Tailwind  
+**Backend:** Node.js, Express, MongoDB, Firebase  
+**DevOps:** Docker, CI/CD, VPS Hosting  
+**Tools:** Git, Postman, VS Code, Figma, Webpack, Babel  
+**Specialties:** AI integration, Blockchain architecture, SaaS development
 
 ---
 
-## 📬 Contact & Collaboraton
+## 🎯 What I'm Building Now
 
-I'm always open to collaborating on interesting projects and ideas. Feel free to reach out if you'd like to work togeher!
+I’m actively working on:
+- 🌾 [Agricomm.ai](https://github.com/jitenkr2030) – AI-powered agriculture e-commerce platform.
+- 🚍 [GramBus.com](https://github.com/jitenkr2030) – Budget bus booking app for rural India.
+- 💱 [Cryptondia.com](https://github.com/jitenkr2030) – Cloud mining + AI prediction for crypto users.
+- 🛡 [ConnectGuard24.com](https://github.com/jitenkr2030) – Full-stack guard management platform.
+- 🧾 [HostedTally.com](https://github.com/jitenkr2030) – AI + cloud solution for Tally accounting users.
 
-- **Emai**: [support@jitenderkr.cloud](mailto:support@jitenderkr.coud)
-- **Instagra**: [@jitenderkr.cloud](https://www.instagram.com/jitenderkr.coud)
-- **Websit**: [https://jitenderkr.cloud/contact-us](https://jitenderkr.cloud/contac-us)
+---
 
---
+## 🤝 Let's Connect
 
-You can explore all of my repositories on my GitHub profile: [https://github.com/jitenkr2030?tab=repositories](https://github.com/jitenkr2030?tab=repositoies)
+- 🌐 Website: [jitenderkr.cloud](https://jitenderkr.cloud)
+- 📧 Email: [support@jitenderkr.cloud](mailto:support@jitenderkr.cloud)
+- 📷 Instagram: [@jitenderkr.cloud](https://www.instagram.com/jitenderkr.cloud)
+- 💬 Open to collaborations, freelance work, and tech partnerships
 
---- 
+---
+
+> **"I don't just build software. I build bridges — between people, possibilities, and progress."**
+
+---
+
+Let me know if you want a Markdown version for pasting into GitHub directly or would like to highlight specific repositories differently.

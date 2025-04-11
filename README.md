@@ -1,5 +1,8 @@
+Here is an updated GitHub profile for **Jitender Kumar** ([@jitenkr2030](https://github.com/jitenkr2030)), incorporating all 12 of his public repositories:
 
-# 👋 Hi there, I'm Jitender Kumar
+---
+
+## 👋 Hi there, I'm Jitender Kumar
 I'm a passionate self-taught software developer with expertise in full-stack development, specializing in creating efficient, scalable, and user-friendly web and mobile applicationsWith a strong background in JavaScript, React, Node.js, and React Native, I love solving complex problems and delivering high-quality solutions
 
 ---
@@ -7,13 +10,13 @@
 ## 🚀 Projects
 
 ### 1. [Sans-language](https://github.com/jitenkr2030/Sans-language
-A project licensed under the Apache License 2..
+An open-source project licensed under the Apache License 2..
 
 ### 2. [mirazmobile](https://github.com/jitenkr2030/mirazmobile
-An AI-driven, user-centric security app designed for security guard companies, their clients, and field officers. It aims to enhance communication, collaboration, and performance monitorin.
+An AI-driven, user-centric security app designed for security guard companies, their clients, and field officer.
 
 ### 3. [GSTPAssociation.org](https://github.com/jitenkr2030/GSTPAssociation.org
-A comprehensive platform designed to support GST practitioners in India. It offers a wide range of services, tools, and resources to help GST professionals manage their work effectivel.
+A comprehensive platform designed to support GST practitioners in Indi.
 
 ### 4. [StartStartup.Business](https://github.com/jitenkr2030/StartStartup.Business
 Frontend for the StartStartup.Business platform, a React-based web application designed to help startups manage their projects, tasks, and mor.
@@ -22,10 +25,10 @@
 Forked from 0wczar/airframe-reac.
 
 ### 6. [GFBooking](https://github.com/jitenkr2030/GFBooking
-Repository details not provide.
+A project focused on booking functionalitie.
 
 ### 7. [HourlyGFApp](https://github.com/jitenkr2030/HourlyGFApp
-Repository details not provide.
+An application designed for hourly-based functionalitie.
 
 ### 8. [DeptPayoff](https://github.com/jitenkr2030/DeptPayoff
 An intelligent application designed to help users become debt-free faster by providing automated tools, personalized strategies, and AI-powered insights for debt repaymen.
@@ -37,7 +40,7 @@
 A comprehensive web hosting control panel designed for web hosting companies, developers, and system administrator.
 
 ### 11. [RoundUPI](https://github.com/jitenkr2030/RoundUPI
-An application that transforms everyday UPI transactions into automatic savings and smart investments, helping users grow their wealth effortlessl.
+An application that transforms everyday UPI transactions into automatic savings and smart investment.
 
 ### 12. [OpenBlockFin](https://github.com/jitenkr2030/OpenBlockFin
 An open-source blockchain-based financial platform focused on secure, transparent, and decentralized financial transaction.
@@ -60,9 +63,9 @@
 
 ---
 
-## 📬 Contact & Collaboraton
+## 📬 Contact & Collaboration
 
-I'm always open to collaborating on interesting projects and ideas. Feel free to reach out if you'd like to work togeher!
+I'm always open to collaborating on interesting projects and ideas. Feel free to reach out if you'd like to work together!
 
 - **Emai**: [support@jitenderkr.cloud](mailto:support@jitenderkr.coud)
 - **Instagra**: [@jitenderkr.cloud](https://www.instagram.com/jitenderkr.coud)

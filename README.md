@@ -1,9 +1,6 @@
-Here is an updated GitHub profile for **Jitender Kumar** ([@jitenkr2030](https://github.com/jitenkr2030)), incorporating all 12 of his public repositories:
-
----
 
 ## 👋 Hi there, I'm Jitender Kumar
-I'm a passionate self-taught software developer with expertise in full-stack development, specializing in creating efficient, scalable, and user-friendly web and mobile applicationsWith a strong background in JavaScript, React, Node.js, and React Native, I love solving complex problems and delivering high-quality solutions
+I'm a passionate self-taught software developer with expertise in full-stack development, specializing in creating efficient, scalable, and user-friendly web and mobile applications. With a strong background in JavaScript, React, Node.js, and React Native, I love solving complex problems and delivering high-quality solutions
 
 ---
 
@@ -63,9 +60,9 @@ Here is an updated GitHub profile for **Jitender Kumar** ([@jitenkr2030](https:/
 
 ---
 
-## 📬 Contact & Collaboration
+## 📬 Contact & Collaboraton
 
-I'm always open to collaborating on interesting projects and ideas. Feel free to reach out if you'd like to work together!
+I'm always open to collaborating on interesting projects and ideas. Feel free to reach out if you'd like to work togeher!
 
 - **Emai**: [support@jitenderkr.cloud](mailto:support@jitenderkr.coud)
 - **Instagra**: [@jitenderkr.cloud](https://www.instagram.com/jitenderkr.coud)

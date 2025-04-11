@@ -1,62 +1,75 @@
-# Hi there, I'm Jitender Kumar 👋
 
-## 🚀 About Me
+# 👋 Hi there, I'm Jitender Kumar
+I'm a passionate self-taught software developer with expertise in full-stack development, specializing in creating efficient, scalable, and user-friendly web and mobile applicationsWith a strong background in JavaScript, React, Node.js, and React Native, I love solving complex problems and delivering high-quality solutions
 
-I'm a passionate salf tought software developer with expertise in full-stack development, specializing in creating efficient, scalable, and user-friendly web and mobile applications. With a strong background in JavaScript, React, Node.js, and React Native, I love solving complex problems and delivering high-quality solutions.
+---
 
-## 🔭 Projects
+## 🚀 Projects
 
-### DeptPayoff: Automate Your Way Out of Debt
+### 1. [Sans-language](https://github.com/jitenkr2030/Sans-language
+A project licensed under the Apache License 2..
 
-**DeptPayoff** is an intelligent application designed to help users become debt-free faster by providing automated tools, personalized strategies, and AI-powered insights for debt repayment.
+### 2. [mirazmobile](https://github.com/jitenkr2030/mirazmobile
+An AI-driven, user-centric security app designed for security guard companies, their clients, and field officers. It aims to enhance communication, collaboration, and performance monitorin.
 
-Features
-Secure account connection
-Debt input panel
-AI-powered debt payoff strategies
-Automated debt payments
-AI chatbot coach
-Personalized tips and recommendations
-Financial optimization and automation
-Goal setting and tracking
-Community and support
-Admin management panel
+### 3. [GSTPAssociation.org](https://github.com/jitenkr2030/GSTPAssociation.org
+A comprehensive platform designed to support GST practitioners in India. It offers a wide range of services, tools, and resources to help GST professionals manage their work effectivel.
 
-[Explore the DebtPayOff repository](https://github.com/jitenkr2030/debtpayoff.git)
+### 4. [StartStartup.Business](https://github.com/jitenkr2030/StartStartup.Business
+Frontend for the StartStartup.Business platform, a React-based web application designed to help startups manage their projects, tasks, and mor.
 
+### 5. [airframe-react](https://github.com/jitenkr2030/airframe-react
+Forked from 0wczar/airframe-reac.
 
-### MirazSec
+### 6. [GFBooking](https://github.com/jitenkr2030/GFBooking
+Repository details not provide.
 
-**MirazSec**  is an innovative hybrid guard and client security application designed to transform the way security operations are managed and executed. By leveraging advanced AI-driven features and user-centric design, MirazSec aims to enhance the efficiency, effectiveness, and safety of security operations for guard companies, their clients, and field officers.
+### 7. [HourlyGFApp](https://github.com/jitenkr2030/HourlyGFApp
+Repository details not provide.
 
-[Explore the MirazSec repository](https://github.com/jitenkr2030/MirazSec.git)
+### 8. [DeptPayoff](https://github.com/jitenkr2030/DeptPayoff
+An intelligent application designed to help users become debt-free faster by providing automated tools, personalized strategies, and AI-powered insights for debt repaymen.
 
-### NextGenPanel.net
+### 9. [MirazSec](https://github.com/jitenkr2030/MirazSec
+An innovative hybrid guard and client security application designed to transform the way security operations are managed and execute.
 
-NextGenPanel.net is a comprehensive web hosting control panel designed for web hosting companies, developers, and system administrators. It offers both open-source and SaaS deployment options, providing a powerful and user-friendly interface for managing web hosting infrastructure.
+### 10. [NextGenPanel.net](https://github.com/jitenkr2030/NextGenPanel.net
+A comprehensive web hosting control panel designed for web hosting companies, developers, and system administrator.
 
-[Explore the AI-Powered Web Hosting Control Panel NextGenPanel.com repository](https://github.com/jitenkr2030/NextGenPanel.git)
+### 11. [RoundUPI](https://github.com/jitenkr2030/RoundUPI
+An application that transforms everyday UPI transactions into automatic savings and smart investments, helping users grow their wealth effortlessl.
+
+### 12. [OpenBlockFin](https://github.com/jitenkr2030/OpenBlockFin
+An open-source blockchain-based financial platform focused on secure, transparent, and decentralized financial transaction.
+
+---
 
 ## 🛠️ Skills
 
-- **Languages:** JavaScript, TypeScript, HTML, CSS
-- **Frontend:** React, React Native, Redux ,Python
-- **Backend:** Node.js, Express, MongoDB , PHP, Python
-- **DevOps:** Docker, Kubernetes, CI/CD
-- **Tools:** Git, Webpack, Babel, ESLint
+- **Languages*: JavaScript, TypeScript, HTML, CSS, Python, HP
+- **Frontend*: React, React Native, Reux
+- **Backend*: Node.js, Express, MongDB
+- **DevOps*: Docker, Kubernetes, CICD
+- **Tools*: Git, Webpack, Babel, ESLnt
 
-## 📫 How to Reach Me
+---
 
-- **Email:** support@jitenderkr.cloud
-- **Instagram:** jitenderkr.cloud
-- **Website:** https://jitenderkr.cloud/contact-us
-  
-## 🌱 Currently Learning
+## 📚 Currently Learning
+- Advanced GrahQL
+- Machine Learning with Pyhon
 
-- Advanced GraphQL
-- Machine Learning with Python
+---
 
-## 🤝 Open to Collaborate
+## 📬 Contact & Collaboraton
 
-I'm always open to collaborating on interesting projects and ideas. Feel free to reach out if you'd like to work together!
+I'm always open to collaborating on interesting projects and ideas. Feel free to reach out if you'd like to work togeher!
 
+- **Emai**: [support@jitenderkr.cloud](mailto:support@jitenderkr.coud)
+- **Instagra**: [@jitenderkr.cloud](https://www.instagram.com/jitenderkr.coud)
+- **Websit**: [https://jitenderkr.cloud/contact-us](https://jitenderkr.cloud/contac-us)
+
+--
+
+You can explore all of my repositories on my GitHub profile: [https://github.com/jitenkr2030?tab=repositories](https://github.com/jitenkr2030?tab=repositoies)
+
+--- 

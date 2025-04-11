@@ -1,7 +1,7 @@
 
-# 👋 Hi, I’m Jitender Kumar ([@jitenkr2030](https://github.com/jitenkr2030))
+# 👋 Hi, I’m Jitender Kumar 
 
-🚀 Self-taught full-stack software developer | 💡 Startup founder | 🌱 AI & Blockchain enthusiast | 🇮🇳 Building the future from Jharkhand
+🚀 Self-taught full-stack software developer | 💡 Startup founder | 🌱 AI & Blockchain enthusiast | 
 
 ---
 
@@ -66,6 +66,3 @@ I’m actively working on:
 
 > **"I don't just build software. I build bridges — between people, possibilities, and progress."**
 
----
-
-Let me know if you want a Markdown version for pasting into GitHub directly or would like to highlight specific repositories differently.

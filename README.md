@@ -57,8 +57,7 @@ I’m actively working on:
 
 ## 🤝 Let's Connect
 
-- 🌐 Website: [jitenderkumar.in](https://jitenderkumar.un)
-- 📧 Email: [support@jitenderkr.cloud](mailto:support@jitenderkr.cloud)
+- 🌐 Website: [jitenderkumar.in](https://jitenderkumar.in)
 - 📷 Instagram: [@jitenderkr.cloud](https://www.instagram.com/jitenderkr.cloud)
 - 💬 Open to collaborations, freelance work, and tech partnerships
 

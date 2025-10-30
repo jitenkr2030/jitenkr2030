@@ -19,7 +19,7 @@ Here are some of the products I'm building and contributing to:
 
 | Project | Description |
 |--------|-------------|
-| 🔐 [mirazmobile](https://github.com/jitenkr2030/mirazmobile) | AI-powered security app for security agencies, clients, and field officers. |
+| 🔐 [BFMF](https://github.com/jitenkr2030/BFMF.git) | India's Open-Source Ecosystem for Building, Training, and Deploying Foundation Models |
 | 💼 [GSTPAssociation.org](https://github.com/jitenkr2030/GSTPAssociation.org) | Digital platform empowering GST practitioners across India. |
 | 🚀 [StartStartup.Business](https://github.com/jitenkr2030/StartStartup.Business) | Full-stack solution to support aspiring startup founders and teams. |
 | 💸 [DeptPayoff](https://github.com/jitenkr2030/DeptPayoff) | Smart app helping users pay off debt faster with AI-powered insights. |

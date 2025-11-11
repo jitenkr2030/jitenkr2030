@@ -59,7 +59,7 @@ I'm actively working on several cutting-edge projects:
 ## 🤝 Let's Connect
 
 - 🌐 Website: [jitenderkumar.in](https://jitenderkumar.in)
-- 📷 Instagram: [@jitenderkr.cloud](https://www.instagram.com/jitenderkr.cloud)
+- 📷 Instagram: [@jitenderkr.cloud](https://www.instagram.com/jitenderkr.in)
 - 💬 Open to collaborations, freelance work, and tech partnerships
 
 ---
